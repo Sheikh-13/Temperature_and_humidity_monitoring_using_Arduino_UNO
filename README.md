@@ -17,6 +17,6 @@ This project is all about Humidity &amp; Temperature Monitoring using DHT11 &amp
 6. Connect LCD: VCC to 5V, GND to GND, SDA to A4, SCL to A5.  
 7. Initialize LCD with I2C address in code.  
 8. Initialize DHT sensor with pin and type in code.  
-9. Read temperature and humidity in loop function.  
+9. Read temperature and humidity in loop function.
 10.Display data on LCD and Serial Monitor, with 2-second delay between readings, using 
 Arduino IDE.
