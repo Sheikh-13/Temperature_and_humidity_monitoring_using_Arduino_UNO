@@ -2,11 +2,11 @@
 This project is all about Humidity &amp; Temperature Monitoring using DHT11 &amp; Arduino  UNO. It explains how to log Humidity &amp; Temperature data on the cloud. We can  interface Arduino UNO with DHT11 to measure temperature and humidity.
 
 # Components used
-1.Arduino UNO \n
-2.DHT11 Sensor \n
-3.LCD 16x2 Display \n
-4.Breadboard \n
-5.Connecting Wires
+1. Arduino UNO
+2. DHT11 Sensor
+3. LCD 16x2 Display
+4. Breadboard 
+5. Connecting Wires
 
 # Steps and Circuit Connection
 1. Select DHT11 sensor for temperature and humidity.  
